@@ -17,3 +17,6 @@ Las tecnologías implementadas son java.
 
 # La finalidad del proyecto
 La finalidad del proyecto es poder compartir la aplicación con todo el mundo
+
+# Enlace al readme del proyecto
+https://github.com/alrumen1/-practicaUT8Alvarorubin/blob/main/README.md
